@@ -132,6 +132,9 @@ section{
 	color: #08ffff;
 	font-weight: 600;
 }
+#days-left-div{
+	text-align: right;
+}
 .icon img{
 	vertical-align: -.17rem;
 	margin-right: .44rem;
